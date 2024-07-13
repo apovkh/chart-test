@@ -1,0 +1,4 @@
+.output
+dist
+package.json
+schema.ts
